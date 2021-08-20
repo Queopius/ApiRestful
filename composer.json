@@ -37,8 +37,7 @@
         },
         "classmap": [
             "database/seeds",
-            "database/factories",
-            "tests/PassportTestCase.php"
+            "database/factories"
         ]
     },
     "autoload-dev": {
